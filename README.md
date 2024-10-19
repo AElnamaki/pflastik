@@ -1,2 +1,2 @@
 # pflastik
-Plants diseases data management by leveraging blockchain technology
+In the "AI Agent Framework for Plant Disease Identification" project, blockchain technology played a crucial role by providing a decentralized and secure method for storing plant disease data and associated scientific papers. This integration ensured data immutability and traceability, allowing users to verify the authenticity and history of the information stored on the platform. The blockchain's distributed nature also facilitated seamless data sharing across different stakeholders, enhancing collaboration in the agricultural community while safeguarding the integrity of the stored data.
