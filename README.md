@@ -44,7 +44,7 @@ Make sure you have the following installed:
 
 # AI Framework Interface
 
-![AI Framework Interface](./assets/Screenshot_2024-10-19_15_44_26.png)
+![AI Framework Interface](./assets/Screenshot_2024-10-19_15_44_32.png)
 
 # Blockchain Interface
 
