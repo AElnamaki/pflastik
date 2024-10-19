@@ -51,6 +51,34 @@ Make sure you have the following installed:
 ![Blockchain Interface](./assets/Screenshot_2024-10-19_15_47_16.png)
 
 
+
+# PlantChain
+
+PlantChain is an AI-powered application designed to identify plant diseases and manage genetic data using blockchain technology.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run the PlantChain application:
+
+ **Navigate to  PlantChain:**
+    ```bash
+    cd PlantChain && python API.py
+    ```
+**Example**
+```bash
+Running on http://127.0.0.1:5000
+2024-10-19 21:32:00,385 - INFO - Press CTRL+C to quit
+2024-10-19 21:32:00,393 - INFO -  * Restarting with stat
+2024-10-19 21:32:00,842 - WARNING -  * Debugger is active!
+2024-10-19 21:32:00,842 - INFO -  * Debugger PIN: 482-307-663
+2024-10-19 21:32:02,346 - DEBUG - Generated new empty block with index 1 and hash 1cf2726461df68f7b455ebef77bc69b143854ed209c9e0b041a741b5721b38f8 at 2024-10-19 21:32:02
+No blocks in genetic chain. Setting previous_hash to all zeros.
+Hash of block data: a45ea93fb908b482b6dab26b5f583eb809ea0a9316d1b93a69d965084ee38385
+2024-10-19 21:32:02,380 - DEBUG - Generated new 🧬 at 2024-10-19 21:32:02
+```
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any bugs or feature requests.
